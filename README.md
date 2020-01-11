@@ -2,7 +2,8 @@
 Program pemesanan tiket pesawat menggunakan bahasa C++ dengan database MySQL.
 
 
-CARA PENGGUNAAN :
+
+# CARA PENGGUNAAN :
 1. Download semua File diatas.
 2. Extract LIBRARY MYSQL C++.rar
 3. Copy File libmysql.a kedalam folder instalasi codeblocks :
@@ -15,7 +16,7 @@ CARA PENGGUNAAN :
    
 5. Buka CodeBlocks anda, lalu open file .cbp yang telah di download.
 
-INSTALASI :
+# INSTALASI :
 1. Setelah dibuka file project .cbp nya, lalu selanjutnya yaitu untuk men-setting library mysql kedalam project anda.
 2. Klik Project yang ada di menu atas lalu klik Build Options.
 3. Pada panel Linker Settings, klik ADD lalu arahkan file libmysql.a tadi. Jika muncul menu "Keep this as a Relative Path?" pilih No.
